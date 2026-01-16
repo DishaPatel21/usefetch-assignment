@@ -2,7 +2,7 @@
 
 ## 🚀 Deployed Project
 Live Demo:  
-👉 https://YOUR-NETLIFY-LINK.netlify.app
+👉 https://usefetchassignment5.netlify.app
 
 ---
 
