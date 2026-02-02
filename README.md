@@ -2,7 +2,7 @@
 
 ## 🚀 Deployed Project
 Live Demo:  
-👉 https://usefetchassignment5.netlify.app
+👉 https://assignmenttt5.netlify.app/
 
 ---
 
@@ -44,3 +44,5 @@ https://api.escuelajs.co/api/v1/products
 ```bash
 npm install
 npm run dev
+
+<!-- Last Updated: 2026-02-02 -->
